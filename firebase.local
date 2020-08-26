@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.19.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+
+
+
+const firebaseConfig = {
+  apiKey: "AIzaSyAV42OScWJQk-tEajXw3YPCf80dqGP9cvU",
+  authDomain: "primitive-f450a.firebaseapp.com",
+  databaseURL: "https://primitive-f450a.firebaseio.com",
+  projectId: "primitive-f450a",
+  storageBucket: "primitive-f450a.appspot.com",
+  messagingSenderId: "426715384934",
+  appId: "1:426715384934:web:ae750b66829c0c214b31a7"
+};
